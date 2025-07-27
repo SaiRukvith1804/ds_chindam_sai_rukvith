@@ -11,7 +11,6 @@
 - Google Colab
 
 ## 🔗 Colab Notebook Link
-[Insert your shared Google Colab link here]
-
+https://colab.research.google.com/drive/1pI-14K4ctVST6WXLfpIovoPKBFj0o2en?usp=sharing
 ## 👤 Author
 Chindam Sai Rukvith
